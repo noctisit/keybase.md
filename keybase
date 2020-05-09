@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am noctisit on github.
+  * I am rerun (https://keybase.io/rerun) on keybase.
+  * I have a public key ASA0rmMKya6P3H13sYNoZhMBImsuKMWmoTmgMQ7nSTiZTwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012034ae630ac9ae8fdc7d77b18368661301226b2e28c5a6a139a0310ee74938994f0a",
+      "host": "keybase.io",
+      "kid": "012034ae630ac9ae8fdc7d77b18368661301226b2e28c5a6a139a0310ee74938994f0a",
+      "uid": "1fae2d16b59d6f7805146bff66f1e519",
+      "username": "rerun"
+    },
+    "merkle_root": {
+      "ctime": 1588993279,
+      "hash": "e16e4047f9fdc5d0154c3b3f5d12b830d7e5c72c262f2f0ea4eb7a3da56db113729f2272ecb3bef2f339030c7ed7468a092a384364c9766a32af334ca0e1a1ce",
+      "hash_meta": "d6530cb39031c163f2485191ce93e66be69ca71e170a0f24e6facfd834a9c4f7",
+      "seqno": 16225261
+    },
+    "service": {
+      "entropy": "0OjgZCTkoOZ5CyOOY2JLuM5x",
+      "name": "github",
+      "username": "noctisit"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1588993307,
+  "expire_in": 504576000,
+  "prev": "d1c92d98249cb24bc7644156df5d46c62b1cae2d9b0d49469923e7dffe1bd9c9",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASA0rmMKya6P3H13sYNoZhMBImsuKMWmoTmgMQ7nSTiZTwo](https://keybase.io/rerun), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNK5jCsmuj9x9d7GDaGYTASJrLijFpqE5oDEO50k4mU8Kp3BheWxvYWTESpcCBcQg0cktmCScskvHZEFW311Gxiscri2bDUlGmSPn3/4b2cnEIBQym180SNKAGFRyPyPgp9UoCVam3s8bV8CS7iM8Bp4lAgHCo3NpZ8RAEpjmZpBeJG2cxoDsSqoN01hw1mOfyc2VycBkswPSwwwvzetl03SvjVgdnYszBNmgntiiRaB84VLowboJvTYZB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEID1j0nh97WfsvwCXDpgoHrUKMnVcuWP4R+L/1XWbc94Ko3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/rerun
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id rerun
+```
